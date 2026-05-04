@@ -1,0 +1,51 @@
+# Geotecnia1 — Manaus
+
+> Geotechnical engineering services in Manaus, Brasil.
+
+## Services
+- [Ancoragens](https://manaus.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://manaus.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://manaus.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://manaus.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://manaus.geotecnia1.org/ensaio-cpt/)
+- [Ensaios Proctor](https://manaus.geotecnia1.org/ensaios-proctor/)
+- [Escavacoes](https://manaus.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://manaus.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://manaus.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://manaus.geotecnia1.org/estacas/)
+- [Fundacoes](https://manaus.geotecnia1.org/fundacoes/)
+- [Geotecnia Viaria](https://manaus.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://manaus.geotecnia1.org/granulometria/)
+- [Injecoes](https://manaus.geotecnia1.org/injecoes/)
+- [Investigacao](https://manaus.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://manaus.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://manaus.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://manaus.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://manaus.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://manaus.geotecnia1.org/liquefacao/)
+- [Masw](https://manaus.geotecnia1.org/masw/)
+- [Melhoramento](https://manaus.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://manaus.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://manaus.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://manaus.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://manaus.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://manaus.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://manaus.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://manaus.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://manaus.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://manaus.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://manaus.geotecnia1.org/resistividade/)
+- [Sapatas](https://manaus.geotecnia1.org/sapatas/)
+- [Sismica](https://manaus.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://manaus.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://manaus.geotecnia1.org/taludes/)
+- [Triaxial](https://manaus.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://manaus.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://manaus.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://manaus.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Manaus, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
